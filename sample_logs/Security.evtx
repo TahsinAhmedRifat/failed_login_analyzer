@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<Events>
+  <Event>
+    <System>
+      <EventID>4625</EventID>
+      <TimeCreated SystemTime="2025-11-23T08:42:15.0000000Z"/>
+    </System>
+    <EventData>
+      <Data Name="TargetUserName">John</Data>
+    </EventData>
+  </Event>
+  <Event>
+    <System>
+      <EventID>4625</EventID>
+      <TimeCreated SystemTime="2025-11-23T09:01:22.0000000Z"/>
+    </System>
+    <EventData>
+      <Data Name="TargetUserName">Admin</Data>
+    </EventData>
+  </Event>
+</Events>
+
