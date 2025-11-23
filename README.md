@@ -25,7 +25,7 @@ failed_login_analyzer/
 
 ---
 
-## 🚀 Setup & Usage
+##  Setup & Usage
 
 ### 1️⃣ Clone the repository
 ```bash
