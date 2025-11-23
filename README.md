@@ -5,7 +5,7 @@ It extracts usernames and timestamps, then generates a clean CSV report for fast
 
 ---
 
-## ✔ Features
+##  Features
 - Detect failed login events (Event ID **4625**)
 - Extract account name + timestamp
 - Export results into `failed_logins_report.csv`
